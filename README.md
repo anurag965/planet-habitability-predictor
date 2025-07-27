@@ -77,8 +77,6 @@ Using derived features such as:
 
 ---
 
----
-
 ## 🙋‍♂️ Author
 
 **Anurag Pradhan**  
